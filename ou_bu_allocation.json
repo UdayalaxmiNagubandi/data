@@ -1,0 +1,165 @@
+{
+  "OU_BU_LIST": [
+    {
+      "ou": "CMT",
+      "BUList": [
+        "Accelerite Bu",
+        "Accelerite sales Bu",
+        "CMT ou Ops",
+        "Communication and media",
+        "Continuous Engineering",
+        "Data Product Engg",
+        "IBM cloud practice Bu",
+        "IBM sales Bu",
+        "IBM Security practice Bu",
+        "IBM_Products",
+        "Telecom_sales"
+      ]
+    },
+
+    {
+      "ou": "BFSI",
+      "BUList": [
+        "APEC sales bu",
+        "Banking and capital Market",
+        "BFSI Payments",
+        "BFSI Sales BU",
+        "Financial Services Product_Engneering",
+        "Insurance BU"
+      ]
+    },
+    {
+      "ou": "Administration",
+      "BUList": "Administation BU"
+    },
+    {
+      "ou": "Corporate Planning and Operartions",
+      "BUList": [
+        "Bussiness Finance BU",
+        "Contract Management BU",
+        "Corporate Planning BU",
+        "Delivery Operations",
+        "Sales operations"
+      ]
+    },
+    {
+      "ou": "Current and Future Talent",
+      "BUList": [
+        "Corporate Assignment BU",
+        "Future Talent BU"
+      ]
+    },
+    {
+      "ou": "ESG",
+      "BUList": "Internal Audit_BU"
+    },
+    {
+      "ou": "Executives",
+      "BUList": [
+        "Corporate Development",
+        "Delivery and Ops Excellence",
+        "Executives BU"
+      ]
+    },
+    {
+      "ou": "Finance",
+      "BUList": [
+        "Corporate Secretarial BU",
+        "Finance BU",
+        "Legal BU"
+      ]
+    },
+    {
+      "ou":"Google",
+      "BUList":[
+        "Google BU",
+        "Google Sales"
+      ]
+    },
+    {
+      "ou":"Industry",
+      "BUList":[
+        "Corporate CTO_Organization",
+        "HLS_BU",
+        "HLS_Payers_Providers",
+        "HLS_Pharma",
+        "HLS_SIMD_BU",
+        "IBM Products",
+        "Industrial Services",
+        "Industry OU Ops",
+        "PES1",
+        "PES2",
+        "Pre Sales",
+        "SalesForce Practice_APAC",
+        "SalesForce Practice_Global",
+        "SalesForce Practice_US",
+        "SalesForce_Europe",
+        "Tools and Transformation BU"
+      ]
+    },
+    {
+      "ou":"Information Technology",
+      "BUList":"Information Technology BU"
+    },
+    {
+      "ou":"Microsoft",
+      "BUList":[
+        "Microsoft Enabling Functions",
+        "Microsoft Sales",
+        "MS Cloud Practice BU"
+      ]
+    },
+    {
+      "ou":"People and Org Development",
+      "BUList": [
+        "COE & Unit HR",
+        "Corporate Initiatives BU",
+        "People Operations",
+        "Persistent University",
+        "Talent Acquisition"
+      ]
+    },
+    {
+      "ou":"Sales and Marketing",
+      "BUList":[
+        "Cloud Infra Security Sales",
+        "Corporate Marketing",
+        "Demand Generation",
+        "Europe Sales BU",
+        "Global Salesforce Strategy",
+        "IBM Alliances Sales",
+        "ISV and Emerging Verticals Sales",
+        "Life Science and Healthcare Sales",
+        "Partnerships",
+        "ROW Sales",
+        "Tech Practices Sales"
+      ]
+    },
+    {
+      "ou":"ServiceLines",
+      "BUList":[
+        "CIS Practitioner",
+        "Cloud Practice",
+        "Data and Integration",
+        "Data BFSI",
+        "Data Competency",
+        "Data BFSI",
+        "Data Competency",
+        "Data Hitech Telecom Emerging",
+        "Data HLS",
+        "Data Platform Engineering",
+        "GOI",
+        "Green House",
+        "Infra Management Practice",
+        "Integration Practice",
+        "Intelligent Business Automation",
+        "Security Practice",
+        "ServiceLines OU Ops"
+      ]
+    },
+    {
+      "ou":"Talent Management",
+      "BUList":"Talent_Management_BU"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "BU_DU_LIST": [
+    {
+      "bu": "Accelerite Bu",
+      "du": [
+        "Accelerite Assignment_du",
+        "Accelerite common support_du",
+        "Actifio_du",
+        "Aepona DU1",
+        "Aepona_Support_Du",
+        "Cloud and platform services_du",
+        "Endpoint support_du",
+        "Endpointdu"
+      ]
+    },
+    {
+      "bu": "Accelerite sales Bu",
+      "du": "Accelerite sales Du"
+    },
+    {
+      "bu": "CMT ou Ops",
+      "du": "CMT ou Ops DU"
+    },
+    {
+      "bu": "Communication and media",
+      "du": [
+        "Telecom_cisco",
+        "Telocom communication",
+        "Telecom_CSP",
+        "TM_BU_OPS"
+      ]
+    },
+    {
+      "bu": "Continuous Engineering",
+      "du": ["CE_CLM DU", "Industrial Services Du", "PLM"]
+    },
+    {
+      "bu": "Data Product Engg",
+      "du": [
+        "Data_product_support",
+        "IBM CastIronDU",
+        "IBM NetezzaDU",
+        "IBM_Analytics_DU1",
+        "MDM_IBM_DU",
+        "Watson Health_DU"
+      ]
+    },
+    {
+      "bu": "IBM cloud practice Bu",
+      "du": ["IBM_Cloud_bu ops", "IBM_Cloud_du", "Kyndryl_cloud_du"]
+    },
+    {
+      "bu": "IBM sales Bu",
+      "du": "IBM North America Sales"
+    },
+    {
+      "bu": "IBM Security practice Bu",
+      "du": ["IBM Security du1", "IBM Security du2"]
+    },
+    {
+      "bu": "IBM_Products",
+      "du": [
+        "Engg Services 1",
+        "Engg services 2",
+        "IBM TNC DU",
+        "IBM_APM_DU",
+        "IBM_PRD_DU"
+      ]
+    },
+    {
+      "bu": "Telecom_sales",
+      "du": "Telecom Sales DU"
+    },
+    {
+      "bu": "Apac Sales Bu",
+      "du": ["APAC Sales_du", "BCM APAC", "BCM Banking"]
+    },
+    {
+      "bu": "Banking and capital Market",
+      "du": [
+        "BCM APAC",
+        "BCM Banking",
+        "BCM WF Onsite",
+        "BCM WF WFIS",
+        "BCMBU_OPS1"
+      ]
+    },
+    {
+      "bu": "BFSI Payments",
+      "du": "BFSI Payments DU"
+    },
+    {
+      "bu": "BFSI Sales BU",
+      "du": ["BFSI East DU", "BFSI West DU"]
+    },
+    {
+      "bu": "Financial Services Product_Engneering",
+      "du": ["Fintech Intuit", "Fintech ISV", "FintechBU_Ops1"]
+    },
+    {
+      "bu": "Insurance BU",
+      "du": [
+        "Insurance CrawFord",
+        "Insurance Savings",
+        "Insurance Solutions",
+        "Insurance_DU1",
+        "InsuranceBU_OPS",
+        "NBFC Digital Bank"
+      ]
+    },
+    {
+      "bu": "Administation BU",
+      "ou": "Admin CU"
+    },
+    {
+      "bu": "Sales operations",
+      "du": "Sales operation du"
+    },
+    {
+      "bu": "Bussiness Finance BU",
+      "du": "Bussiness Finance DU"
+    },
+    {
+      "bu": "Contract Management BU",
+      "du": "Contract Management DU"
+    },
+    {
+      "bu": "Corporate Planning BU",
+      "du": "Corporate Planning DU"
+    },
+    {
+      "bu": "Delivery Operations",
+      "du": "Delivery Operations DU"
+    },
+    {
+      "bu": "Corporate Assignment BU",
+      "du": ["Central Release_DU", "New_Joinees"]
+    },
+    {
+      "bu": "Future Talent BU",
+      "du": [
+        "Entry Level Training Programme",
+        "Graduate Engineers with Multidimensional Skills",
+        "LongLeave_DU",
+        "Talent_Transformation_Ops"
+      ]
+    },
+    {
+      "bu": "Internal Audit_BU",
+      "du": "Internal Audit_DU"
+    },
+    {
+      "bu": "Corporate Development",
+      "du": "Merger and Acquisition"
+    },
+    {
+      "bu": "Delivery and Ops Excellence",
+      "du": [
+        "DE_Accelerite DU",
+        "DE_Corporate Groups DU",
+        "DE_Technology Services_1 DU",
+        "Delivery Excellence - Industry",
+        "Delivery Excellence - ServiceLines"
+      ]
+    },
+    {
+      "bu": "Executives BU",
+      "du": ["CEO Office", "Corporate", "Corporate Initiatives DU"]
+    },
+    {
+      "bu": "Corporate Secretarial BU",
+      "du": "Corporate Secretarial DU"
+    },
+    {
+      "bu": "Finance BU",
+      "du": ["Finance DU", "MIS and payroll DU"]
+    },
+    {
+      "bu": "Legal BU",
+      "du": "Legal DU"
+    },
+    {
+      "bu": "Google BU",
+      "du": "Google_DU1"
+    },
+    {
+      "bu": "Google Sales",
+      "du": "Google Sales DU"
+    },
+    {
+      "bu": "Corporate CTO_Organization",
+      "du": ["CTOInnovH3", "CTOPCIH3", "Life_Sciences_Research"]
+    },
+    {
+      "bu": "HLS_BU",
+      "du": "HLS_BU_Ops"
+    },
+    {
+      "bu": "HLS_Payers_Providers",
+      "du": ["Clinical HC BU Ops", "Clinical HC DU"]
+    },
+    {
+      "bu": "HLS_Pharma",
+      "du": ["Pharma BUOps", "Pharma DU_1"]
+    },
+    {
+      "bu": "HLS_SIMD_BU",
+      "du": [
+        "LSHC_Agilent_DU",
+        "LSHC_BUOps1",
+        "LSHC_DU_1",
+        "LSHC_DU_2",
+        "LSHC_DU_3",
+        "LSHC_Grenoble_DU",
+        "LSHC_ThermoFisher_DU"
+      ]
+    },
+    {
+      "bu": "IBM Products",
+      "du": "TNPM Reseller DU"
+    },
+    {
+      "bu": "Industrial Services",
+      "du": "PLM Services"
+    },
+    {
+      "bu": "Industry OU Ops",
+      "du": "Industry DU"
+    },
+    {
+      "bu": "PES1",
+      "du": ["PES_DU1", "PES_DU10", "PES_DU2", "PES_DU3", "PES_DU4", "PES_DU5"]
+    },
+    {
+      "bu": "PES2",
+      "du": ["PES_DU11", "PES_DU6", "PES_DU7", "PES_DU8", "PES_DU9"]
+    },
+    {
+      "bu": "Pre Sales",
+      "du": "PresalesDU"
+    },
+    {
+      "bu": "SalesForce Practice_APAC",
+      "du": [
+        "SF APAC_BUOps",
+        "SF APAC_BUPool",
+        "SF-APAC-Others",
+        "SFDC_DU_APAC_DU1",
+        "SFDC_DU_APAC_DU2",
+        "SFDC_DU_APAC_Strateg",
+        "SFDC_DU_Australia"
+      ]
+    },
+    {
+      "bu": "SalesForce Practice_Global",
+      "du": [
+        "SF Global Architects",
+        "SF Global BA",
+        "SF Global BU Ops",
+        "SF Global Solutions"
+      ]
+    },
+    {
+      "bu": "SalesForce Practice_US",
+      "du": [
+        "SF US_BU Ops",
+        "SF US_BU Pool",
+        "SFDC_DU_LS_Pharma",
+        "SFDC_DU_US_HealthCar",
+        "SFDC_DU_US_HiTech",
+        "SFUS LS_Pharma_Med Devices",
+        "SF-US-Others"
+      ]
+    },
+    {
+      "bu": "SalesForce_Europe",
+      "du": [
+        "SFEU_France",
+        "SFEU_Germany",
+        "SFEU_Leadership",
+        "SFEU_SriLanka",
+        "SFEU_Switzerland",
+        "SFEU_UK"
+      ]
+    },
+    {
+      "bu": "Tools and Transformation BU",
+      "du": "Tools and Transformation_DU"
+    },
+    {
+      "bu": "Information Technology BU",
+      "du": [
+        "InfoSec & Compliance",
+        "IT DU1",
+        "IT DU2",
+        "IT DU3",
+        "IT_BUOps",
+        "Service Excellence",
+        "Solution Excellence",
+        "Solutions Data Support",
+        "Technology Excellence"
+      ]
+    },
+    {
+      "bu": "Microsoft Enabling Functions",
+      "du": "MS Cloud Enabling Functions"
+    },
+    {
+      "bu": "Microsoft Sales",
+      "du": "Microsoft Sales DU"
+    },
+    {
+      "bu": "MS Cloud Practice BU",
+      "du": ["MS Cloud_DU1", "MS Cloud_DU3", "MS Cloud_DU4", "MS Cloud_DU5"]
+    },
+    {
+      "bu": "COE & Unit HR",
+      "du": [
+        "Business Partner- People & Org Development",
+        "Communities of Expertise",
+        "P&OD_CPO Office",
+        "People Analytics"
+      ]
+    },
+    {
+      "bu": "Corporate Initiatives BU",
+      "du": [
+        "Beyond Work Initiatives",
+        "Corporate Social Responsibility",
+        "Project Initiatives"
+      ]
+    },
+    {
+      "bu": "People Operations",
+      "du": ["Operational CoE Services", "Operational Services"]
+    },
+    {
+      "bu": "Persistent University",
+      "du": [
+        "L&D Technical DU",
+        "Learning and Development_Operations",
+        "Soft Skill & Leadership Development"
+      ]
+    },
+    {
+      "bu": "Talent Acquisition",
+      "du": [
+        "India Talent Acquisition",
+        "Offshore TA_BFSI",
+        "Offshore TA_CMT",
+        "Offshore TA_COE",
+        "Offshore TA_Industry",
+        "Offshore-TA Leadership",
+        "Offshore-TA Service Lines",
+        "RoW-Talent Acquisition",
+        "USA-Talent Acquisition"
+      ]
+    },
+    {
+      "bu": "Cloud Infra Security Sales",
+      "du": ["Cloud & Infra Sales", "Security Sales"]
+    },
+    {
+      "bu": "Corporate Marketing",
+      "du": "Global Marketing DU"
+    },
+    {
+      "bu": "Demand Generation",
+      "du": "Inside Sales"
+    },
+    {
+      "bu": "Europe Sales BU",
+      "du": ["Europe Sales BU", "Services Europe Sales"]
+    },
+    {
+      "bu": "Global Salesforce Strategy",
+      "du": "Global Salesforce Strategy DU"
+    },
+    {
+      "bu": "IBM Alliances Sales",
+      "du": ["IBM Alliances Sales", "Reseller Europe Sales"]
+    },
+    {
+      "bu": "ISV and Emerging Verticals Sales",
+      "du": [
+        "ISV and Emerging Verticals Sales DU",
+        "Large Account Sales",
+        "Offshore Led Team"
+      ]
+    },
+    {
+      "bu": "Life Science and Healthcare Sales",
+      "du": [
+        "Life Science and Healthcare Sales DU",
+        "LSHC Strategy",
+        "Payer, Provider amd Pharma Sales DU",
+        "Scientific Instruments & Medical Devices Sales DU"
+      ]
+    },
+    {
+      "bu": "Partnerships",
+      "du": "Partnerships DU"
+    },
+    {
+      "bu": "ROW Sales",
+      "du": ["APAC Sales DU", "Europe Sales"]
+    },
+    {
+      "bu": "Tech Practices Sales",
+      "du": [
+        "Data Sales",
+        "IBA Sales",
+        "Integration Practice Sales",
+        "Salesforce Sales"
+      ]
+    },
+    {
+      "bu": "CIS Practitioner",
+      "du": "Cloud_Practitioners"
+    },
+    {
+      "bu": "Cloud Practice",
+      "du": [
+        "Cloud Practice BU Ops",
+        "Cloud Practice BU Pool",
+        "Cloud Practice DU1",
+        "Cloud Practice DU2",
+        "IBM Cloud DU",
+        "IT Operations Practice"
+      ]
+    },
+    {
+      "bu": "Data and Integration",
+      "du": ["Data And Integration DU", "Data Practitioners and Solutions"]
+    },
+    {
+      "bu": "Data BFSI",
+      "du": ["Data BFSI 1", "Data BFSI 2", "Data WellsFargo"]
+    },
+    {
+      "bu": "Data Competency",
+      "du": ["Data Architects_DU", "MDM Competency", "ML Competency"]
+    },
+    {
+      "bu": "Data Hitech Telecom Emerging",
+      "du": ["Data Services 1", "Data Services 2"]
+    },
+    {
+      "bu": "Data HLS",
+      "du": ["Data HLS 1", "Data HLS 2"]
+    },
+    {
+      "bu": "Data Platform Engineering",
+      "du": ["Data Platform Engg 1", "Data Platform Engg 2"]
+    },
+    {
+      "bu": "GOI",
+      "du": "Adaptive Cybersecurity DU"
+    },
+    {
+      "bu": "Green House",
+      "du": [
+        "GreenHouse BU Ops",
+        "Technical Communications",
+        "User Experience and Visual Designs"
+      ]
+    },
+    {
+      "bu": "Infra Management Practice",
+      "du": [
+        "IT Operations Practice_DU",
+        "IT Operations Practice_DU_Ops",
+        "Onclusive IT Operation",
+        "Tango IT Operation"
+      ]
+    },
+    {
+      "bu": "Integration Practice",
+      "du": [
+        "Integration Practice APJ",
+        "Integration Practice BU Ops",
+        "Integration Practice Center of Excellence",
+        "Integration Practice General Functions",
+        "Integration Practice NA",
+        "Integration Practice Sales & Presales",
+        "Integration Practice_DU 1",
+        "Integration Practice_DU 2"
+      ]
+    },
+    {
+      "bu": "Intelligent Business Automation",
+      "du": [
+        "IBA DU1",
+        "IBA DU2",
+        "IBA DU3",
+        "IBA DU4",
+        "IBA DU5",
+        "IBA DU6",
+        "IBA_Enablers"
+      ]
+    },
+    {
+      "bu": "Security Practice",
+      "du": [
+        "Security BU Ops",
+        "Security DU1",
+        "Security DU2",
+        "Security DU3",
+        "Security DU5",
+        "Security Solutions"
+      ]
+    },
+    {
+      "bu": "ServiceLines OU Ops",
+      "du": "ServiceLines DU"
+    },
+    {
+      "bu": "Talent_Management_BU",
+      "du": ["Resource Management", "RM_Analytics"]
+    }
+  ]
+}
